@@ -1,6 +1,7 @@
 # Fetal Health Monitoring Application
 
-This project is a web application that predicts the fetal health status (Normal, Suspect, or Pathological) based on various input features related to fetal monitoring. The application consists of three main components:
+The objective of this project is to study the precision of machine learning algorithm techniques on Cardiotocograph(CTG) data in identifying high-risk fetuses.
+This is a web application that predicts the fetal health status (Normal, Suspect, or Pathological) based on various input features related to fetal monitoring. The application consists of three main components:
 
 1. A Flask API that loads a pre-trained machine learning model and provides an endpoint to make predictions.
 2. An Express.js server that acts as a proxy between the React application and the Flask API.
