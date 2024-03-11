@@ -1,4 +1,4 @@
-# Fetal Health Prediction System
+# Fetal Health Monitoring Application
 
 This project is a web application that predicts the fetal health status (Normal, Suspect, or Pathological) based on various input features related to fetal monitoring. The application consists of three main components:
 
